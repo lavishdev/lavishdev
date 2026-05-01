@@ -77,17 +77,13 @@ public class LavishSaini {
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lavishdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lavishdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF" width="48%" />
 
 </div>
 
