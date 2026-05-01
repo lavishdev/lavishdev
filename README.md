@@ -97,6 +97,19 @@ public class LavishSaini {
 
 ---
 
+
+
+
+## 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
