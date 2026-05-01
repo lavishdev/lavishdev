@@ -18,7 +18,7 @@
 public class LavishSaini {
 
     private final String name     = "Lavish Saini";
-    private final String role     = "Full Stack Developer";
+    private final String role     = "Backend Developer";
     private final String location = "India 🇮🇳";
 
     private final String[] currentFocus = {
