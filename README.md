@@ -81,10 +81,11 @@ public class LavishSaini {
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=lavishdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishdev&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" width="48%" />
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lavishdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF" width="48%" />
+<br/>
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lavishdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF" width="40%" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Snake
