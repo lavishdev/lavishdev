@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Lavish+Saini+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Python;Building+cool+stuff+%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Lavish+Saini+%F0%9F%91%8B;Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Python;Building+scalable+systems%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <!-- Badges row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=lavishdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
