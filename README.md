@@ -86,7 +86,6 @@ public class LavishSaini {
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=lavishdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=FFFFFF" width="40%" />
 
 </div>
----
 
 ## 🐍 Contribution Snake
 
