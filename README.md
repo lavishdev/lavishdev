@@ -100,15 +100,7 @@ public class LavishSaini {
 
 
 
-## 💬 Dev Quote
 
-<div align="center">
-
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=Redressed)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
