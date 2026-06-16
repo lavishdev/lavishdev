@@ -5,7 +5,6 @@
 
 <!-- Badges row -->
 ![Profile Views](https://komarev.com/ghpvc/?username=lavishdev&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-sainii/)
 
 </div>
 
